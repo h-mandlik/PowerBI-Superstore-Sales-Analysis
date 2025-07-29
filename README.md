@@ -25,7 +25,7 @@ The goal is to identify **sales, profit trends, and regional performance**.
 
 ## 📷 Dashboard Preview
 
-![Superstore Dashboard](img1.png)
+![Superstore Dashboard](.image/img1.png)
 
 ---
 
